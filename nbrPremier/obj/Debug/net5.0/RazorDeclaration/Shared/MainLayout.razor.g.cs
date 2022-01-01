@@ -97,7 +97,7 @@ using nbrPremier.Outils;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 48 "C:\Users\vielf\Documents\Mike\blazor\nbrPremier\nbrPremier\nbrPremier\Shared\MainLayout.razor"
+#line 50 "C:\Users\vielf\Documents\Mike\blazor\nbrPremier\nbrPremier\nbrPremier\Shared\MainLayout.razor"
       
     private string footerTitre = "@nbrPremier's Copyright 2021";
     private bool premier = false;
